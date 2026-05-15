@@ -1,16 +1,40 @@
-## Hi there 👋
+# Project Name
 
-<!--
-**Gunjanjaiswal01/Gunjanjaiswal01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Short description of your project.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Project
+
+This project is built using modern technologies and focuses on performance, clean UI, and scalability.
+
+---
+
+## ✨ Features
+
+- ✅ Feature 1
+- ✅ Feature 2
+- ✅ Feature 3
+- ✅ Responsive Design
+- ✅ Easy to Use
+
+---
+
+## 🛠 Tech Stack
+
+- Frontend: HTML, CSS, JavaScript / React
+- Backend: Python / Node.js
+- Database: MySQL / MongoDB
+
+---
+
+## 📂 Folder Structure
+
+```bash
+project-folder/
+│
+├── frontend/
+├── backend/
+├── assets/
+├── README.md
+└── requirements.txt
